@@ -1,0 +1,28 @@
+#Stickers {
+    background: red;
+    background: -webkit-linear-gradient(left, #1964c5, #ec0b29, orange , yellow, blue);
+    background: -o-linear-gradient(right, #1964c5, #ec0b29, orange , yellow, blue);
+    background: -moz-linear-gradient(right, #1964c5, #ec0b29, orange , yellow, blue);
+    background: linear-gradient(to right, #1964c5, #ec0b29, orange , yellow, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 3vw;
+    padding-top: 10px;
+    padding-left: 33px;
+  }
+  
+  .row p{
+    color: white;
+    margin-left: 23px;
+}
+
+.row hr{
+      height: 2px !important;
+      color: white !important;
+      background-color: white !important;
+      margin-left: 30px;
+      width: 95%;
+}
+.row i{
+    color: rgb(87, 87, 238);
+}

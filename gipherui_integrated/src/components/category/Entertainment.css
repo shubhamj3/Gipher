@@ -1,0 +1,27 @@
+#Entertainment {
+    background: red;
+    background: -webkit-linear-gradient(left, green, #ff371c, orange , yellow, blue);
+    background: -o-linear-gradient(right, green, #ff371c, orange , yellow, blue);
+    background: -moz-linear-gradient(right, green, #ff371c, orange , yellow, blue);
+    background: linear-gradient(to right, green, #ff371c, orange , yellow, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 3vw;
+    padding-top: 10px;
+    padding-left: 33px;
+  }  
+  
+  .row p{
+    color: white;
+    margin-left: 23px;
+}
+
+.row hr{
+      height: 2px !important;
+      color: white;
+      margin-left: 30px;
+      width: 95%;
+}
+.row i{
+    color: rgb(87, 87, 238);
+}

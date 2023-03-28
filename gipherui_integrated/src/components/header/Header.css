@@ -1,0 +1,67 @@
+.nav-background-color{
+    background-color: black !important;
+}
+
+.Reaction:hover {
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+}
+
+.Entertainment:hover{
+    background: linear-gradient(45deg, #b12140 30%, #ff371c 90%);
+}
+
+.Sports:hover{
+    background: linear-gradient(45deg, #1964c5 30%, #12b7e9 90%);
+}
+
+.Stickers:hover{
+    background: linear-gradient(45deg, #1964c5 30%, #ec0b29 90%);
+}
+
+.Artists:hover{
+    background: linear-gradient(45deg, #19c5ae 30%, #daf104 90%);
+}
+
+.mybtncolor:hover{
+    background: linear-gradient(45deg, #19c5ae 30%, #daf104 90%);
+}
+
+.mysearchcolor{
+    background: linear-gradient(45deg, #aaadad 30%, #cac6c696 90%);
+}
+
+/* #search_input{
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    caret-color:transparent;
+    line-height: 40px;
+    transition: width 0.4s linear;
+    } */
+
+    .fa-search {
+        color: white;
+      }
+
+      .btn:focus {
+        outline: none;
+      }
+
+      .navbar-brand {
+            background: red;
+            background: -webkit-linear-gradient(left, green, cyan, orange , yellow, blue);
+            background: -o-linear-gradient(right, green, cyan, orange , yellow, blue);
+            background: -moz-linear-gradient(right, green, cyan, orange , yellow, blue);
+            background: linear-gradient(to right, green, cyan, orange , yellow, blue);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            /* font-size: 35px !important; */
+      }
+
+    .giphyspan{
+        height: 10px;
+        width: 100px;
+        font-weight: bolder;
+    }

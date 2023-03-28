@@ -1,0 +1,39 @@
+/* #Dashboard {
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #e60000, 0 0 20px #eb1b26, 0 0 25px #a15b00, 0 0 30px #f54747, 0 0 35px #e6007f;
+  }
+
+ */
+
+#Dashboard {
+  
+  background: red;
+  background: -webkit-linear-gradient(left, green, cyan, orange , yellow, blue);
+  background: -o-linear-gradient(right, green, cyan, orange , yellow, blue);
+  background: -moz-linear-gradient(right, green, cyan, orange , yellow, blue);
+  background: linear-gradient(to right, green, cyan, orange , yellow, blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 3vw;
+  padding-top: 10px;
+  padding-left: 37px;
+}
+
+.row p{
+color: white;
+margin-left: 23px;
+}
+
+.row hr{
+  height: 2px !important;
+  color: white;
+  margin-left: 30px;
+  width: 95%;
+}
+.row i{
+color: rgb(87, 87, 238);
+}
+
